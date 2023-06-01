@@ -86,13 +86,6 @@
       ]
     },
     {
-      "name": "vinyl",
-      "category": "fx",
-      "comment": "Vinyl scratches; selected randomly",
-      "volume": -6,
-      "size": 25
-    },
-    {
       "name": "rain",
       "category": "fx",
       "comment": "Light rain; selected randomly",
